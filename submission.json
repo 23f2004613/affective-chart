@@ -1,12 +1,7 @@
 {
   "prompt": "Five translucent mountain-shaped silhouettes of people, arranged vertically, each representing a country's income distribution. The leftmost and smallest mountain — Ethiopia — is almost entirely submerged below a dark rising waterline. The rightmost mountain — the United States — towers far above the waterline, massive and glowing warm gold. No text, no labels, no axes, no legend. Single frame. Cinematic, painterly, editorial magazine style.",
-  "model": "Ideogram v2",
-  "dataset_name": "World Bank Poverty and Inequality Platform via Our World in Data",
-  "dataset_url": "https://ourworldindata.org/poverty",
-  "insight": "Ethiopia's national poverty line of $2.59/day sits below what the US considers extreme poverty — the same word describes incomparably different realities across five countries.",
-  "concept": "income distribution inequality across countries visualized as human figures at different water levels",
-  "tradition_name": "Poverty and Income Inequality",
-  "tradition_period": "2021-2023",
-  "tradition_approach": "Emotional metaphor using water submersion to represent populations living below poverty lines",
-  "publish_email": true
+  "model": "model name and version, e.g. Midjourney v6.1, DALL·E 3, Flux Pro 1.1",
+  "dataset_name": "name of the dataset",
+  "dataset_url": "direct URL or full citation",
+  "insight": "one sentence: the specific insight you were trying to make visible"
 }
