@@ -1,0 +1,8 @@
+{
+  "prompt": "Five translucent mountain-shaped silhouettes of people, arranged vertically, each representing a country's income distribution. The leftmost and smallest mountain — Ethiopia — is almost entirely submerged below a dark rising waterline labeled only by a faint red thread. The rightmost mountain — the United States — towers far above the waterline, massive and glowing warm gold. The middle three mountains (Bangladesh, Vietnam, Turkey) sit at varying heights, partially submerged. The water below the line is dark, cold, deep blue-black. Above the line the mountains glow progressively warmer — amber, gold, white. No text, no labels, no axes, no legend, no numbers. Single frame. Cinematic, painterly, editorial magazine style.",
+  "model": "Ideogram v2",
+  "dataset_name": "World Bank Poverty and Inequality Platform via Our World in Data",
+  "dataset_url": "https://ourworldindata.org/poverty",
+  "insight": "Ethiopia's national poverty line of $2.59/day sits below what the US considers extreme poverty — the same word describes incomparably different realities across five countries.",
+  "publish_email": true
+}
